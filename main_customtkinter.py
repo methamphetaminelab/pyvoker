@@ -1,7 +1,6 @@
 import customtkinter as ctk
 from customtkinter import ALL, E, END, LAST, N, S, W, X, Y
 import random
-import tkinter as tk
 from PIL import Image, ImageTk
 import time
 import os
